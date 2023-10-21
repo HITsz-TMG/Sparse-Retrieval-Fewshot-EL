@@ -1,0 +1,8 @@
+faiss==1.7.2
+gensim==3.8.1
+numpy==1.23.0
+pandas==0.25.3
+sentence_transformers==2.2.2
+six==1.16.0
+tqdm==4.64.0
+transformers==4.18.0
